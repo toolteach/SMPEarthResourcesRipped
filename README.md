@@ -62,7 +62,7 @@ Packs above contain some modern assets such as staff badges and others
 >
 > 
 
->Other random Assets
+>Other random Assets:
 >* Old Fall
 >* 2020 Resource Pack 
 >
@@ -72,7 +72,7 @@ Packs above contain some modern assets such as staff badges and others
 just taken from a old SSD I used during 2020.
 > 
 
->Honourable mention 
+>Honourable mention: 
 > 
 > >![logo](hellotooltech.png)
 > 
