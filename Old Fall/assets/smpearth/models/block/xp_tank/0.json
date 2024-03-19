@@ -1,0 +1,7 @@
+{
+  "parent": "smpearth:block/xp_tank/base",
+  "textures": {
+    "side": "smpearth:block/xp_tank/0_side",
+    "top": "smpearth:block/xp_tank/0_top"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "smpe/cat_ears_base",
+    "textures": {
+        "inner": "smpe/gradient",
+        "outer": "smpe/gradient_dark"
+    }
+}

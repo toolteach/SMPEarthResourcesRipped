@@ -1,0 +1,7 @@
+{
+    "parent": "smpe/cat_ears_base",
+    "textures": {
+        "inner": "smpe/zirconium_bright",
+        "outer": "smpe/zirconium_dark"
+    }
+}

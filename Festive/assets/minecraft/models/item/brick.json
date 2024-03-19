@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"item/brick"},"overrides":[{"predicate":{"custom_model_data":1},"model":"smpearth:item/diamond_ingot"},{"predicate":{"custom_model_data":2},"model":"smpearth:item/stable_nether_star"}]}

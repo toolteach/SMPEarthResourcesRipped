@@ -1,0 +1,7 @@
+{
+    "parent": "smpe/cat_ears_base",
+    "textures": {
+        "inner": "block/melon_side",
+        "outer": "smpe/dark_melon"
+    }
+}
