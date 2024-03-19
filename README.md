@@ -1,6 +1,5 @@
 owo whats this
 ---
-![logo](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/github_vector.svg)
 >SMPEarth corrupted their server resource packs as a countermeasure for people trying to rip it, however if the client can read it then something else can, and now we have this.
 
 ![logo](logo1.png)
