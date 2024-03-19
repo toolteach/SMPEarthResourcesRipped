@@ -5,7 +5,7 @@ owo whats this
 ![logo](logo1.png)
 ![logo](logo2.png)
 
-> Includes
+> Includes:
 >* Classic
 >* Empty
 >* Fall
@@ -27,7 +27,7 @@ Packs above contain some modern assets such as staff badges and others
 >
 > these texture changes make no sense 
 
->Badge Changes
+>Badge Changes:
 > 
 > removed:
 > 
