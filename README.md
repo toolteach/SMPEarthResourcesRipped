@@ -77,4 +77,5 @@ just taken from a old SSD I used during 2020.
 > >![logo](hellotooltech.png)
 > 
 >Try improving the server instead.
+>https://www.youtube.com/watch?v=y6i4Ox_GFC0
 
